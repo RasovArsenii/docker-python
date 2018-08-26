@@ -524,3 +524,5 @@ ADD patches/sitecustomize.py /root/.local/lib/python3.6/site-packages/sitecustom
 
 # Set backend for matplotlib
 ENV MPLBACKEND "agg"
+
+pip install sklearn_deltatfidf
